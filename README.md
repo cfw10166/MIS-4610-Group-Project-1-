@@ -6,13 +6,23 @@ Team Name:
 
 Team Members:
 
-Aidan Combs
-Joey Maitran
-Praneet Venigalla
-Cameron White
-Mariam Zaman
-Scenario Description
+Mariam Zaman - @mad1amz 
+https://github.com/mad1amz/MIST4610Group3/blob/90084431293fd8ad8af4d262cd1ccada6a1104cf/README.md
 
+Joey Maitran - @Jbm39435 
+https://github.com/Jbm39435
+
+Praneet Venigalla - @pxv24
+https://github.com/pxv24
+
+Aidan Combs - @acombs122
+https://github.com/acombs122/mis-project1
+
+Cameron White - @cfw10166
+https://github.com/cfw10166/MIS-4610-Group-Project-1-
+
+**Scenario Description
+**
 A description of the scenario that you are modeling describing it in sufficient detail that makes sense in the context of your data model
 
 Our project models an operational database for the inner managerial workings of a major airport that coordinates airlines, flights, passengers, aircrafts, etc. The system supports storage and reporting for day to day operations data. The core entity in our model is the Flight entity, which serves as the link between airlines, planes, terminals, gates, etc. Each flight represents an instance of an aircraft journey, complete with departure and arrival information, gate assignments, and the airline responsible for operating the flight.
@@ -23,12 +33,13 @@ Passengers are another core component of the model. By linking passengers to fli
 
 There are also the airport’s Terminals and Gates which provide the physical infrastructure for operations. Each terminal contains multiple gates, which are assigned to flights based on their timing and airline.
 
-Data Model
-
+**Data Model
+**
 explanation of the data model including the relationships between the entities in natural English. Simply put, what kind of data does your database support storage of and what kind of data does it not?
 
-Data Dictionary
-
-Queries
-
-Database Information
+**Data Dictionary
+**
+**Queries
+**
+**Database Information
+**
